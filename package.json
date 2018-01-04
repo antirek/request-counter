@@ -1,0 +1,23 @@
+{
+  "name": "request-counter",
+  "version": "0.0.1",
+  "description": "get next request number",
+  "main": "index.js",
+  "dependencies": {
+    "jasmine": "^2.8.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "jasmine"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/antirek/request-counter.git"
+  },
+  "author": "Sergey Dmitriev <antirek@yandex.ru>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/antirek/request-counter/issues"
+  },
+  "homepage": "https://github.com/antirek/request-counter#readme"
+}
